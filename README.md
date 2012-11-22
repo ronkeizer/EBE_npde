@@ -1,7 +1,7 @@
 EBE_npde
 ========
 
-Aim: Calculate EBE_npde in R from 
+Aim: Calculate EBE_npde in R
 
 Description: EBEnpde is a diagnostic for mixed-effects models. This R code calculates the EBEnpde based on NONMEM output. 
 This is done without the use of PsN. (The current version of PsN doesn't handle inter-occasion variability in a correct way yet.)
